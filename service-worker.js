@@ -2,7 +2,7 @@
 // HAFIT SERVICE WORKER
 // =========================
 
-const CACHE_NAME = "hafit-v1-cache";
+const CACHE_NAME = "hafit-v2-cache";
 
 const FILES_TO_CACHE = [
   "./",
